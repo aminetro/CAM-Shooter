@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ObjectTrackingDemo
+{
+    public class Player
+    {
+        public String name { get; set; }
+
+        public String color { get; set; }
+
+        public String score { get; set; }
+
+        public Char number { get; set; }
+    }
+}
